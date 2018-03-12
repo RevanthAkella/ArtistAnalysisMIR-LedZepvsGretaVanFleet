@@ -1,0 +1,9 @@
+;artists;name;acousticness;danceability;energy;instrumentalness;liveness;loudness;mode;speechiness;tempo;valence;track_href
+0;Greta Van Fleet;Safari Song;0.176;0.373;0.931;9.12e-06;0.319;-4.043;1;0.0506;175.92;0.74;https://api.spotify.com/v1/tracks/1BfR5GMOgW0peHkPxrwf11
+1;Greta Van Fleet;Edge Of Darkness;0.00717;0.452;0.944;0.161;0.0766;-3.785;1;0.0587;148.07;0.673;https://api.spotify.com/v1/tracks/4rhUBIlzi7zgV7TryhVujl
+2;Greta Van Fleet;Flower Power;0.349;0.198;0.703;0.0382;0.151;-5.484;1;0.0361;76.899;0.219;https://api.spotify.com/v1/tracks/4SE1kjgRulcwjNcc7oFFg4
+3;Greta Van Fleet;A Change Is Gonna Come;0.026;0.365;0.684;0.000329;0.144;-4.769;0;0.0397;129.637;0.548;https://api.spotify.com/v1/tracks/12YYFvwwuYiw010ONgfYlW
+4;Greta Van Fleet;Highway Tune;0.0107;0.579;0.957;0.158;0.263;-2.94;1;0.0521;123.993;0.515;https://api.spotify.com/v1/tracks/7aOor99o8NNLZYElOXlBG1
+5;Greta Van Fleet;Meet On The Ledge;0.303;0.503;0.78;2.44e-05;0.152;-4.751;1;0.0401;145.127;0.382;https://api.spotify.com/v1/tracks/6CDYbIZs6DjyhDm7lUbpc1
+6;Greta Van Fleet;Talk On The Street;0.232;0.527;0.939;0.000411;0.104;-3.518;0;0.0578;134.01;0.57;https://api.spotify.com/v1/tracks/2H9sGMEd19c2XzUyigadgS
+7;Greta Van Fleet;Black Smoke Rising;0.187;0.372;0.911;0.000199;0.0883;-3.949;1;0.0694;200.012;0.536;https://api.spotify.com/v1/tracks/32BEasyNQgqXQJKoVa0fUw
